@@ -1,1 +1,2 @@
-# Уроки по компьютерным сетям на основе YouTube канала https://www.youtube.com/@AndreySozykin (будут добавляться в раздел WiKi)
+# [Конспект] Компьютерные сети. Курс Андрея Созыкина (будут добавляться в раздел WiKi)
+Ссылка на YouTube канал: https://www.youtube.com/@AndreySozykin
